@@ -1,0 +1,13 @@
+body{
+  background: #DCE35B;  
+  background:#84b6f4;
+
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-family: sans-serif, 'Montserrat',
+  
+}
